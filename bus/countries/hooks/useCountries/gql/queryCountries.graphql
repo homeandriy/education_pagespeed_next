@@ -1,0 +1,6 @@
+query GET_COUNTRIES {
+    countries {
+        code,
+        name
+    }
+}
